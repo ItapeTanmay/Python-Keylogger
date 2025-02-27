@@ -8,9 +8,9 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 # Email Configuration
-EMAIL_ADDRESS = "itapetanmay103@gmail.com"  # Replace with your email
-EMAIL_PASSWORD = "mcxk lghd spqx gbgp"  # Replace with your generated app password
-TO_EMAIL = "itapetanmay103@gmail.com"  # Replace with the recipient's email
+EMAIL_ADDRESS = "# Replace with your email"  
+EMAIL_PASSWORD = "# Replace with your generated app password"  
+TO_EMAIL = "# Replace with the recipient's email"  
 
 
 def send_email():
